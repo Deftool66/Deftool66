@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a software developer with sound problem-solving skills and proven experience in building and designing software in a test driven environment and a background in Audio Engineering.
+
+#HTML, #CSS, #Bootstrap, #JavaScript ES6, # SQL, # git, # GitHub, #Heroku, #Ruby on Rails.
+
 <!--
 **Deftool66/Deftool66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
